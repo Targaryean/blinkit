@@ -1,0 +1,51 @@
+# Node modules
+node_modules/
+
+# Build artifacts
+public/
+build/
+
+# Environment variables
+.env
+.env.local
+
+# IDE-specific files
+.idea/
+.vscode/
+
+# Logs and temporary files
+npm-debug.log
+yarn-error.log
+yarn.lock
+
+# Testing frameworks
+jest/
+coverage/
+
+# Production secrets
+.secret.json
+
+# Database dumps
+dump.sql
+
+# IDE specific configurations
+# If relevant
+.zshrc
+.bash_history
+
+# Local development configurations
+docker-compose.yml
+docker-compose.dev.yml
+
+# Specific tools/frameworks files
+# Add .eslintrc, .prettierrc etc. if relevant
+
+# Cache folders
+.cache/
+
+# IDE test configuration files
+# If relevant
+jest.config.js
+.vscode/launch.json
+
+# Any other files or folders you intend to exclude from version control
